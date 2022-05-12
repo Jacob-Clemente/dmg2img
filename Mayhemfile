@@ -1,0 +1,5 @@
+project: jacob-clemente/dmg2img
+target: dmg2img
+
+cmds:
+  - cmd: /dmg2img @@
